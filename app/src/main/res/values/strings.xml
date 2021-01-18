@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TeaTimer</string>
+    <string name="tea_timer">Tea Timer</string>
+    <string name="brew">Brew</string>
+    <string name="tea_is_brewing">Tea is Brewing</string>
+    <string name="reset">Reset</string>
+</resources>
